@@ -1,4 +1,4 @@
-Tio chi estas la Lens-Studio-pakajho por Snapchat-lenso "[Europo: aerpremo](https://www.snapchat.com/lens/052adfc26f8f4adbb4b56fd07804b7b0)". Ghi prezentas la aerpremon super Europo.
+Tio chi estas la Lens-Studio-pakajho por Snapchat-lenso "[Europo: aerpremo](https://www.snapchat.com/lens/052adfc26f8f4adbb4b56fd07804b7b0)". Ghi montras la aerpremon super Europo.
 
 Por krei Snapchat-lenson saman au similan al Europo: aerpremo, oni procedu jene:
 
