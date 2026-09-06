@@ -1,0 +1,54 @@
+- !<AssetImportMetadata/39518b17-2514-4ac0-b637-2bcb630b1be3>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 5c69462c-7a06-4f1a-8218-839cffce4193
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 5c69462c-7a06-4f1a-8218-839cffce4193
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 3563939d-cd21-4085-b232-e3b5ea817b65
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/3563939d-cd21-4085-b232-e3b5ea817b65>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  VersionPrerelease: ""
+  UpdateOrder: 0
+  ComponentUid: 450880d3-f6ac-4a96-be5b-7cb5de642e14
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    isobarVisual: false
+    pressureArea: false
+    pressureLabelPrefab: false
+    remoteServiceModule: false
+    showPointValues: false
+    statusText: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - remoteServiceModule: !<reference.RemoteServiceModule> 00000000-0000-0000-0000-000000000000
+      statusText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      pressureArea: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      pressureLabelPrefab: !<reference.ObjectPrefab> 00000000-0000-0000-0000-000000000000
+      isobarVisual: !<reference.RenderMeshVisual> 00000000-0000-0000-0000-000000000000
+      showPointValues: false
+  ScriptTypes:
+    -
+      {}
